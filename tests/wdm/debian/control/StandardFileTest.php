@@ -1,7 +1,7 @@
 <?php
 namespace wdm\debian\control;
 
-class StandardFileTest extends \PHPUnit_Framework_TestCase
+class StandardFileTest extends \PHPUnit\Framework\TestCase
 {
     private $object;
 

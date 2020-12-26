@@ -3,7 +3,7 @@ namespace wdm\debian;
 
 use org\bovigo\vfs\vfsStream;
 
-class PackagerTest extends \PHPUnit_Framework_TestCase
+class PackagerTest extends \PHPUnit\Framework\TestCase
 {
     public function setUp()
     {
